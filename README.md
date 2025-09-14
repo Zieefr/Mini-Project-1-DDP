@@ -30,3 +30,7 @@ Berbeda dengan kondisi sebelumnya, disini pengguna ingin mengubah keseluruhan da
 # Kondisi 5
 <img width="1389" height="391" alt="Image" src="https://github.com/user-attachments/assets/e63bb36f-4875-4c73-9c23-97ae1dc78502" />
 Jika pengguna memasukkan pilihan 4, sistem akan meminta pengguna memasukkan indeks untuk menghaous sebuah data dari daftar budaya, setelah memasukkan indeks sistem menghapus data yang dipilih dan menampilkan daftar terbaru kemudian program selesai.
+
+#Kondisi Lain
+<img width="1212" height="326" alt="Image" src="https://github.com/user-attachments/assets/fb81fe39-c397-400f-aab7-833f990d0866" />
+Jika pengguna memasukkan pilihan menu yang tidak terdaftar atau tidak tersedia pada daftar menu di awal yaitu 1,2,3,4 dimana selain daftar tersebut sistem akan menampilkan tampilan "Pilihan Tidak Valid" kepada pengguna, maka program selesai.
