@@ -9,4 +9,4 @@ Sistem pendataan daftar warisan budaya adalah sebuah program sederhana yang digu
 # Cara Kerja Program
 
 <img width="1148" height="235" alt="Image" src="https://github.com/user-attachments/assets/c7b730e7-04d0-4d57-8a5f-730e68799792" />
-Saat memulai program, sistem akan menampilkan terkait menu pilihan yang perlu dipilih oleh pengguna untuk memulai program selanjutnya dengan menginput atau memasukkan salah satu pilihan menu dari 1.2, 3 atau 4 sesuai dengan pilihan user atau pengguna
+Saat memulai program, sistem akan menampilkan terkait menu pilihan yang perlu dipilih oleh pengguna untuk memulai program selanjutnya dengan menginput atau memasukkan salah satu pilihan menu dari 1.2, 3 atau 4 sesuai dengan pilihan user atau pengguna dari daftar menu tersebut.
