@@ -24,3 +24,7 @@ Jika pengguna memasukkan angka atau pilihan 2, sistem akan menampilkan daftar wa
 Jika pengguna memasukkan 3, sistem menampilkan daftar warisan budaya lalu pengguna memasukkan indeks dari data yang ingin diubah mulai dari 0,1,2,3 dan seterusnya lalu pengguna memasukkan data baru dengan menginput nama, asal, jenis, dan tahun penetapan. Dalam kondisi ini jika pengguna hanya mengubah salah satu data seperti asal budaya maka sistem hanya akan mengubah salah satu data tersebut.
 
 # Kondisi 4
+<img width="1383" height="521" alt="Image" src="https://github.com/user-attachments/assets/0e96648d-1da1-47bb-9c19-dbb2d4029d8c" />
+Berbeda dengan kondisi sebelumnya, disini pengguna ingin mengubah keseluruhan data dalam indeks maka pengguna memasukkan indeks data yang ingin diubah kemudian mengubah data dengan menginput nama, asal, jenis budaya baru dan tahun penetapannya lalu sistem akan menampilkan perubahan data terbaru dan penempatan data tersebut disesuaikan dengan posisi indeks yang dimasukkan oleh pengguna.
+
+# Kondisi 5
