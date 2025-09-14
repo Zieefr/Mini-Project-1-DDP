@@ -5,3 +5,8 @@ Sistem pendataan daftar warisan budaya adalah sebuah program sederhana yang digu
 
 # Flowchart
 ![image alt](https://github.com/Zieefr/Mini-Project-1-DDP/blob/main/FlowChartMinProDDP.drawio.png?raw=true)
+
+# Cara Kerja Program
+
+# Kondisi 1
+![image alt]
