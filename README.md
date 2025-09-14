@@ -10,3 +10,9 @@ Sistem pendataan daftar warisan budaya adalah sebuah program sederhana yang digu
 
 <img width="1148" height="235" alt="Image" src="https://github.com/user-attachments/assets/c7b730e7-04d0-4d57-8a5f-730e68799792" />
 Saat memulai program, sistem akan menampilkan terkait menu pilihan yang perlu dipilih oleh pengguna untuk memulai program selanjutnya dengan menginput atau memasukkan salah satu pilihan menu dari 1.2, 3 atau 4 sesuai dengan pilihan user atau pengguna dari daftar menu tersebut.
+
+# Kondisi 1
+<img width="1253" height="474" alt="Image" src="https://github.com/user-attachments/assets/92340219-6e9c-4fb9-ae9f-182a2e34a84d" />
+Jika pengguna memasukkan angka 1/pilihan 1 maka sistem akan menampilkan tampilan "Tambahkan Daftar Warisan Budaya" kemudian pengguna menginput nama, asal, jenis budaya dan tahun penetapannya. Setelah pengguna menginput maka sistem akan menambahkan ke dalam daftar budaya dan menampilkan daftar warisan budaya setelah ditambahkan.
+
+# Kondisi 3
