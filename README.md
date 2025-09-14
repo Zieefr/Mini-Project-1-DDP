@@ -15,4 +15,8 @@ Saat memulai program, sistem akan menampilkan terkait menu pilihan yang perlu di
 <img width="1253" height="474" alt="Image" src="https://github.com/user-attachments/assets/92340219-6e9c-4fb9-ae9f-182a2e34a84d" />
 Jika pengguna memasukkan angka 1/pilihan 1 maka sistem akan menampilkan tampilan "Tambahkan Daftar Warisan Budaya" kemudian pengguna menginput nama, asal, jenis budaya dan tahun penetapannya. Setelah pengguna menginput maka sistem akan menambahkan ke dalam daftar budaya dan menampilkan daftar warisan budaya setelah ditambahkan.
 
+# Kondisi 2
+<img width="1206" height="392" alt="Image" src="https://github.com/user-attachments/assets/fcadb699-df6a-4051-a949-dcac539d9a36" />
+Jika pengguna memasukkan angka atau pilihan 2, sistem akan menampilkan daftar warisan budaya yang sudah ada atau tersedia saat ini.
+
 # Kondisi 3
