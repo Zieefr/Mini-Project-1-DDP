@@ -20,3 +20,7 @@ Jika pengguna memasukkan angka 1/pilihan 1 maka sistem akan menampilkan tampilan
 Jika pengguna memasukkan angka atau pilihan 2, sistem akan menampilkan daftar warisan budaya yang sudah ada atau tersedia saat ini.
 
 # Kondisi 3
+<img width="1403" height="505" alt="Image" src="https://github.com/user-attachments/assets/84c28b8e-82ca-43d5-b48e-907f1c597a92" />
+Jika pengguna memasukkan 3, sistem menampilkan daftar warisan budaya lalu pengguna memasukkan indeks dari data yang ingin diubah mulai dari 0,1,2,3 dan seterusnya lalu pengguna memasukkan data baru dengan menginput nama, asal, jenis, dan tahun penetapan. Dalam kondisi ini jika pengguna hanya mengubah salah satu data seperti asal budaya maka sistem hanya akan mengubah salah satu data tersebut.
+
+# Kondisi 4
