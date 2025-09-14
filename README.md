@@ -1,7 +1,7 @@
 # Mini-Project-1-DDP
 Nama: Selvi Bella Dwi Anita NIM: 2509116053 Kelas: Sistem Informasi B
 
-Sistem pendataan daftar warisan budaya adalah sebuah program sederhana yang digunakan untuk mengelola informasi warisan budaya Indonesia. Data yang dicatat dapat berupa nama warisan budaya, lokasi, tahun penetapan, dan jenisnya
+Sistem pendataan daftar warisan budaya adalah sebuah program sederhana yang digunakan untuk mengelola informasi warisan budaya Indonesia. Data yang dicatat dapat berupa nama warisan budaya, asal bdaerah, jenisnya berupa benda/tak benda, dan tahun penetapannya. Sistem ini memudahkan pengguna untuk menyimpan, mengatur, dan melihat apa saja daftar warisan budaya yang ada di Indonesia.
 
 # Flowchart
 <img width="1092" height="1063" alt="Image" src="https://github.com/user-attachments/assets/46c018f3-e746-4976-a1b8-ace60497bb80" />
